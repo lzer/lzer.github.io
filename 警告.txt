@@ -1,0 +1,7 @@
+.git
+.gitattributes
+CNAME
+切记不能动
+
+github  用户名 lzer
+仓库地址：https://github.com/lzer/lzer.github.io
