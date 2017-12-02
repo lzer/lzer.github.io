@@ -5,3 +5,6 @@ CNAME
 
 github  用户名 lzer
 仓库地址：https://github.com/lzer/lzer.github.io
+
+
+http://www.html5tricks.com/
